@@ -8,3 +8,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-06
 - Ran linter, applied auto-fixes
 - Reviewed open issues, added labels
+
+## 2026-06-06
+- Tidied up project structure
+- Improved log message formatting
+- Added .editorconfig for consistent formatting
