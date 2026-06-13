@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Improved log message formatting
 - Added .editorconfig for consistent formatting
+
+## 2026-06-13
+- Resolved deprecation warnings
